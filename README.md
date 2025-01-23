@@ -14,6 +14,8 @@ We will be downloading the file -
 
 ![Alt text](/version.png?raw=true "Version Check")
 
+![Alt text](/Suricata-run.png?raw=true "Runnnig Suricata")
+
 ![Alt text](/Custom-Rules.png?raw=true "Custom Rules")
 
-![Alt text](/Suricata-run.png?raw=true "Runnnig Suricata")
+
