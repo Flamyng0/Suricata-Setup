@@ -19,4 +19,4 @@ We will be downloading the file -
 ![Alt text](/Custom-Rules.png?raw=true "Custom Rules")
 
 
-![Alt text](/Alert.png?raw=true "Alerts")
+![Alt text](/alert.png?raw=true "Alerts")
